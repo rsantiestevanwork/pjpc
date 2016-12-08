@@ -5722,7 +5722,7 @@ form.cart {
 
 table.variations {
     margin: 0px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     width: 100%;
 }
 
@@ -5738,7 +5738,7 @@ table.variations td.value {
 
 table.variations td, 
 .content-area table.variations tr td {
-    padding: 5px 5px 5px 0px;/*0px 15px 0px 0px;*/
+    padding: 5px 5px 20px 0px;/*0px 15px 0px 0px;*/
 }
 
 table.variations .chosen-container {
@@ -5751,6 +5751,7 @@ table.variations label {
     font-size: 15px;
     font-weight: 400;
     text-align: left;
+    padding : 0px 0px 5px 5px;/* new line with padding */
 }
 
 .summary table.variations td.label {
