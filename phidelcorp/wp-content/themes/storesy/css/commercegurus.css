@@ -8885,7 +8885,7 @@ body.single .content-area .addthis_toolbox a:hover {
 
 body .content-area article h2 a {
     border: none;
-    color: #222;
+    color: #fff; /*#222;*/
     text-transform: none;
 }
 
